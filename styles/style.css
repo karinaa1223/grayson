@@ -10,6 +10,10 @@ ul{
     list-style: none;
 }
 
+body{
+    background: #4b4848;
+}
+
 .container {
     max-width: 1140px;
     width: 100%;
